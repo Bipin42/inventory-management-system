@@ -1,1 +1,3 @@
-# inventory-management-system
+Login Details 
+Username: Admin
+Password: Admin
